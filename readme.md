@@ -3,7 +3,7 @@
 This app allows the user to send a feedback to the developer. 
 
 ### App Walk-though
-<img src="./image-app.png" width=200><br>
+<img src="./img/image-app.png" width=200><br>
 
 ## Technologies used
 - HTML
